@@ -1,1 +1,1 @@
-include ':app', ':kotlin_gankio_example'
+include ':app', ':kotlin_gankio_example', ':gank_app'
